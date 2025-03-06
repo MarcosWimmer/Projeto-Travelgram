@@ -38,10 +38,12 @@ Esse é um dos desafios práticos da formação Full-Stack, um dos conteúdos di
 
 ## ⚒️ FERRAMENTAS
 
-Para o inicio do escopo, apresentando a ideia inicial foi utilizando o <a href="https://www.figma.com/" target="blank"> <b>Figma</b> </a> para realizar o desenho e layout do projeto, tirando do papel e adaptando ao digital. <br>
+Para o inicio do escopo, apresentando a ideia inicial foi utilizando o [Figma](https://www.figma.com/")
+  para realizar o desenho e layout do projeto, tirando do papel e adaptando ao digital. <br>
 Com essa ferramenta foi possível projetar a paleta de cores, fontes, tamanhos dentre outras opções presentes no projeto.
 <br>
-Iniciando na parte dos códigos, foi utilizado o <b><a href="https://vscode.dev/" target="blank">VScode</a></b> devido a sua variedade de opções e aplicativos que auxiliam na proatividade do projeto.
+Iniciando na parte dos códigos, foi utilizado o [VScode](https://vscode.dev/)
+ devido a sua variedade de opções e aplicativos que auxiliam na proatividade do projeto.
 
 ## 🏗️ ESTRUTURA
 
