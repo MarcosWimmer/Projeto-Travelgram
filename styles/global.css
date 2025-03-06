@@ -42,6 +42,6 @@ a:hover {
     margin-inline: auto;
 }
 
-.logo {
-    padding: 24px;
+.bg-surface-color {
+    background-color: var(--surface-color);
 }
